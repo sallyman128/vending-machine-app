@@ -20,6 +20,12 @@ export default function VendingMachine() {
                     </div>
                 </div>
             </nav>
+
+            <section>
+                <div className="container">
+                    <p>placeholder text</p>
+                </div>
+            </section>
         </div>
     )
 }
